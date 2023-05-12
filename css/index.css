@@ -1,9 +1,42 @@
-header{
-background-color: brown;
+header {
+    background-color: brown;
 }
 
-a{
-    color: white;
+a {
+    color: #fff;
     font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    margin-right: 20px;
 }
 
+#button-skills {
+    background-color: #26285E;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#button-projetos {
+    background-color: #26285E;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+#button-sobre {
+    background-color: #26285E;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#button-contatos {
+    background-color: #26285E;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#button-linkedin {
+    background-color: #26285E;
+    padding: 10px;
+    border-radius: 20px;  
+}
